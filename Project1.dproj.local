@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.081,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit15.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.881,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit17.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit19.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit16.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit13.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit18.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Unit12.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Олег\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
